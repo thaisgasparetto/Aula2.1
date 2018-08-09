@@ -1,4 +1,5 @@
 # Aula2.1
 Tom hanks
-Jackie Chan
+Marilyn Monroe
 Terry Crews
+George Clooney
